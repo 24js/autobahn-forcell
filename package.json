@@ -1,11 +1,11 @@
 {
-  "name": "autobahn-espo",
-  "version": "0.1.0",
-  "description": "AutobagnJS lib for Espo.",
+  "name": "autobahn-forcell",
+  "version": "0.2.0",
+  "description": "AutobagnJS lib for Forcell.",
   "main": "autobahn.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yurikuzn/autobahn-espo.git"
+    "url": "git+https://github.com/24js/autobahn-forcell.git"
   },
   "author": "",
   "license": "MIT"
